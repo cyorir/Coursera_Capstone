@@ -1,2 +1,2 @@
 # Coursera_Capstone
-For a Coursera Course
+See the Capstone.ipynb notebook for the project.
